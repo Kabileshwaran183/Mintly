@@ -7,7 +7,7 @@ export default function Navbar() {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 flex items-center justify-between h-16">
         <Link href="/" className="relative w-36 h-8 block">
           <Image
-            src="/static/images/mintly.webp"
+            src="https://www.trymintly.com/_next/image?url=%2Fstatic%2Fimages%2Fmintly.webp&w=3840&q=75"
             alt="Mintly Logo"
             layout="fill"
             objectFit="contain"

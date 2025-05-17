@@ -18,7 +18,7 @@ export default function Hero() {
         </div>
         <div className="md:w-1/2 mt-10 md:mt-0">
           <img
-            src="/static/images/hero-image.webp"
+            src="https://www.trymintly.com/_next/image?url=%2Fstatic%2Fimages%2Fhero-image.webp&w=3840&q=75"
             alt="Hero Image"
             className="w-full rounded-lg shadow-lg"
           />

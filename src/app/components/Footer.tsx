@@ -8,7 +8,7 @@ export default function Footer() {
         <div>
           <div className="relative w-36 h-10 mb-4">
             <Image
-              src="/static/images/mintly.webp"
+              src="https://www.trymintly.com/_next/image?url=%2Fstatic%2Fimages%2Fmintly.webp&w=3840&q=75"
               alt="Mintly Logo"
               layout="fill"
               objectFit="contain"
